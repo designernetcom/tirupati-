@@ -510,10 +510,10 @@ dl dd { margin-bottom: 10px; }
 .heading-bx h3 {
 	margin-top: 0;
     margin-bottom: 0;
-    /* color: white; */
-	background: linear-gradient(180deg, #ffffff, #ffd700, #9f7a00);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
+    color: white;
+	/* background: linear-gradient(180deg, #ffffff, #ffd700, #9f7a00); */
+/* -webkit-background-clip: text; */
+/* -webkit-text-fill-color: transparent; */
 
 }
 .heading-bx .ttr-separator{

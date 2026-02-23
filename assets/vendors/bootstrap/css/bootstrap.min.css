@@ -5625,9 +5625,9 @@ button.bg-dark:focus,
 button.bg-dark:hover {
   background-color: #1d2124 !important;
 }
-. {
+/* . {
   background-color: #fff !important;
-}
+} */
 .bg-transparent {
   background-color: transparent !important;
 }

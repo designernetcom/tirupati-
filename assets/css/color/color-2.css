@@ -23,7 +23,7 @@
 .pagination-bx.primary .pagination > li > span,
 button.back-to-top,
 .rev-btn {
-        background: linear-gradient(186deg, #fbfdb0, #d99c00, #ae8500);
+            background: goldenrod;
 
     	
 }
